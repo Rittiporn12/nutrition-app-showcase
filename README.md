@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1e3a8a,100:334155&height=190&section=header&text=PairPlate&fontSize=48&fontColor=f8fafc&fontAlignY=38&desc=AI%20Nutrition%20Chat%20Assistant%20%7C%20Thai%20%26%20English%20%7C%20RAG%20Workflow&descSize=15&descAlignY=58" alt="PairPlate Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1e3a8a,100:334155&height=180&section=header&text=PairPlate&fontSize=46&fontColor=f8fafc&fontAlignY=38&desc=Thai%20English%20AI%20Nutrition%20Assistant&descSize=16&descAlignY=58" alt="PairPlate Header" />
 
 <br />
 
