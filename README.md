@@ -355,8 +355,34 @@ Thai or English AI Nutrition Answer
 
 <hr />
 
+<h2 align="center">Author</h2>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,35:1e3a8a,70:0f172a,100:020617&height=120&section=footer" alt="PairPlate Footer" />
+<p>
+  <b>Rittiporn Phungphai</b>
+</p>
+
+<p>
+  Software Development | Full-Stack Development | Software Quality | API Testing
+</p>
+
+<p>
+  <a href="https://github.com/Rittiporn12">GitHub Profile</a>
+  &nbsp;|&nbsp;
+  <a href="https://rittiporn12.github.io/portfolio/">Portfolio Website</a>
+</p>
 
 </div>
+
+<hr />
+
+<div align="center">
+
+<p>
+  <b>Thank you for reviewing this project.</b>
+</p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,45:1e3a8a,75:0f172a,100:020617&height=100&section=footer" alt="Footer" />
